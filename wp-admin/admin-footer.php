@@ -21,6 +21,8 @@ global $hook_suffix;
 <div class="clear"></div></div><!-- wpbody -->
 <div class="clear"></div></div><!-- wpcontent -->
 
+/** dasdsadasdasdasd */
+
 <div id="wpfooter" role="contentinfo">
 	<?php
 	/**
